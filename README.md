@@ -8,7 +8,7 @@ This project is a comprehensive task management system designed specifically for
 - **Status Tracking**: Monitor task progress with real-time updates.
 - **Priority Management**: Set task priorities to ensure important work is done first.
 - **Notifications**: Receive alerts for task updates and deadlines.
-- **Collaboration Tools**: Comment on tasks and share files directly within the task interface.
+- **Collaboration Tools**: Comment on tasks and share files directly within the task interface .
 
 ## Technologies Used
 - **Frontend**: React.js, HTML5, CSS3
