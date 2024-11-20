@@ -1,7 +1,7 @@
 # Task Management Project for Digital Publishing Libraries
 
 ## Overview
-This project is a comprehensive task management system designed specifically for digital publishing libraries. It helps teams organize, prioritize, and track tasks efficiently, ensuring smooth project workflows and effective collaboration.
+This project is a comprehensive task management system designed specifically for digital publishing libraries. It helps teams organize, prioritize  , and track tasks efficiently, ensuring smooth project workflows and effective collaboration.
 
 ## Features
 - **Task Creation and Assignment**: Create tasks and assign them to team members.
