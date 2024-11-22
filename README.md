@@ -18,7 +18,7 @@ This project is a comprehensive task management system designed specifically for
 - **Deployment**: Docker, Kubernetes for containerization and orchestration
 
 ## Installation
-To run the project locally follow these steps:
+To run the project locally follow these steps :
 
 1. **Clone the repository**:
    ```bash
